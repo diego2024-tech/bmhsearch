@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Improve Coral Edge TPU guide (#8160)
