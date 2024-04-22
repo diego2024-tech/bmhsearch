@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Capitalize OBB acronym (#7383)
