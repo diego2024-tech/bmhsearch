@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
